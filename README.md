@@ -5,6 +5,7 @@ The goal of this anaylsis was to take two CSV files, one contained city data whi
 
 The main focus in the rideshare data was total ride share fees while From the city data the main focus was city type.
 The final dataframe is as displayed
+
 ![image](https://user-images.githubusercontent.com/98357581/184271674-e6dac126-65c6-43cb-91ae-c0176eecccbf.png)
 
   ## Overall sum of fares by city type
