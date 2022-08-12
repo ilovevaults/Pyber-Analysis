@@ -1,6 +1,9 @@
 # Pyber-Analysis
 ## Goals
-The goal of this anaylsis was to take rideshare data specifically total ride share fees and group them by city type.
+The goal of this anaylsis was to take two CSV files, one contained city data while the other contained ride share data. Then the two dataframes that were created were merged together. 
+![image](https://user-images.githubusercontent.com/98357581/184271466-36117766-0cf0-47f5-8755-ccf12b95229b.png)
+
+The main focus in the rideshare data was total ride share fees. From the cityThe three city types were urban, suburban, and rural.
   ## Overall sum of fares by city type
 According to the data, urban type cities has the most amount of drivers,riders, and total fares while rural type cities had the least amount in these three categories. But in terms of both average fare per ride and average fare per driver rural type cities had the most amount in both categories while urban type cities had the least amount. Suburban type cities in both cases was right in the middle in all categories. 
   ## Weekly sum of fares by city type
